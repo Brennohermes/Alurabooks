@@ -1,2 +1,2 @@
 # Alurabooks
-Porojeto feito durante o curso de responsividade da alura
+Projeto feito durante o curso de responsividade da alura
